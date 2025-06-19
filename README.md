@@ -2,4 +2,4 @@
 
 ## Zidan "The Photographer" Ramdhani
 
-All is well
+All is well and good
