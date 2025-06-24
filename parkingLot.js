@@ -163,7 +163,7 @@ console.log(mobil1Parkir);
 console.log("==================================== mobil yang keluar");
 // lotA.unpark(mobil1Parkir);
 
-let cekLotParkA = lotA.getParkLot();
+let cekLotParkA = lotA.getParkLot();n
 console.log(cekLotParkA);
 
 // console.log(mobil1);
